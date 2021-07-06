@@ -1,0 +1,504 @@
+Uri: https://www.hemlibra-hcp.com/
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\index.htm
+Content Type: text/html
+
+Uri: https://www.hemlibra-hcp.com/index.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\index.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\css2.css
+Content Type: text/css
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-dependencies.min.css
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-dependencies.min.css
+Content Type: text/css
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/hemlibra-hcp/clientlibs/clientlib-base.min.css
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\hemlibra-hcp\clientlibs\clientlib-base.min.css
+Content Type: text/css
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/hemlibra-hcp/clientlibs/clientlib-site.min.css
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\hemlibra-hcp\clientlibs\clientlib-site.min.css
+Content Type: text/css
+
+Uri: https://www.hemlibra-hcp.com/contact-rep.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\contact-rep.html
+Content Type: text/html
+
+Uri: https://www.hemlibra-hcp.com/dosing-administration/dosing-calculator.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\dosing-administration\dosing-calculator.html
+Content Type: text/html
+
+Uri: https://www.gene.com/download/pdf/hemlibra_prescribing.pdf
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\download\pdf\hemlibra_prescribing.pdf
+Content Type: application/pdf
+
+Uri: https://www.hemlibra-hcp.com/safety.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\safety.html
+Content Type: text/html
+
+Uri: https://www.hemlibra-hcp.com/about-hemlibra/why-hemlibra.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\about-hemlibra\why-hemlibra.html
+Content Type: text/html
+
+Uri: https://www.hemlibra-hcp.com/about-hemlibra/hear-from-a-peer.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\about-hemlibra\hear-from-a-peer.html
+Content Type: text/html
+
+Uri: https://www.hemlibra-hcp.com/about-hemlibra/hemlibra-half-life.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\about-hemlibra\hemlibra-half-life.html
+Content Type: text/html
+
+Uri: https://www.hemlibra-hcp.com/about-hemlibra/mechanism-of-action.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\about-hemlibra\mechanism-of-action.html
+Content Type: text/html
+
+Uri: https://www.hemlibra-hcp.com/trials-and-results/hemlibra-clinical-trials.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\trials-and-results\hemlibra-clinical-trials.html
+Content Type: text/html
+
+Uri: https://www.hemlibra-hcp.com/trials-and-results/patients-without-fviii-inhibitors.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\trials-and-results\patients-without-fviii-inhibitors.html
+Content Type: text/html
+
+Uri: https://www.hemlibra-hcp.com/trials-and-results/patients-with-fviii-inhibitors.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\trials-and-results\patients-with-fviii-inhibitors.html
+Content Type: text/html
+
+Uri: https://www.hemlibra-hcp.com/trials-and-results/pediatric-patients.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\trials-and-results\pediatric-patients.html
+Content Type: text/html
+
+Uri: https://www.hemlibra-hcp.com/dosing-administration/dosing.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\dosing-administration\dosing.html
+Content Type: text/html
+
+Uri: https://www.hemlibra-hcp.com/dosing-administration/administration-preparation.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\dosing-administration\administration-preparation.html
+Content Type: text/html
+
+Uri: https://www.hemlibra-hcp.com/safety-and-patient-management/demonstrated-safety-profile.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\safety-and-patient-management\demonstrated-safety-profile.html
+Content Type: text/html
+
+Uri: https://www.hemlibra-hcp.com/safety-and-patient-management/laboratory-monitoring.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\safety-and-patient-management\laboratory-monitoring.html
+Content Type: text/html
+
+Uri: https://www.hemlibra-hcp.com/safety-and-patient-management/treating-breakthrough-bleeds.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\safety-and-patient-management\treating-breakthrough-bleeds.html
+Content Type: text/html
+
+Uri: https://www.hemlibra-hcp.com/safety-and-patient-management/retrospective-surgery-experience.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\safety-and-patient-management\retrospective-surgery-experience.html
+Content Type: text/html
+
+Uri: https://www.hemlibra-hcp.com/support-and-resources/insurance-and-financial-resources.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\support-and-resources\insurance-and-financial-resources.html
+Content Type: text/html
+
+Uri: https://www.hemlibra-hcp.com/support-and-resources/resources-for-your-practice.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\support-and-resources\resources-for-your-practice.html
+Content Type: text/html
+
+Uri: https://www.hemlibra-hcp.com/support-and-resources/frequently-asked-questions.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\support-and-resources\frequently-asked-questions.html
+Content Type: text/html
+
+Uri: https://www.hemlibra-hcp.com/content/hemlibra-hcp/en_us/about-hemlibra/why-hemlibra.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\content\hemlibra-hcp\en_us\about-hemlibra\why-hemlibra.html
+Content Type: text/html
+
+Uri: https://www.hemlibra-hcp.com/content/hemlibra-hcp/en_us/about-hemlibra/hemlibra-half-life.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\content\hemlibra-hcp\en_us\about-hemlibra\hemlibra-half-life.html
+Content Type: text/html
+
+Uri: https://www.hemlibra-hcp.com/content/hemlibra-hcp/en_us/trials-and-results/hemlibra-clinical-trials.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\content\hemlibra-hcp\en_us\trials-and-results\hemlibra-clinical-trials.html
+Content Type: text/html
+
+Uri: https://clinicaltrials.gov/ct2/show/NCT02622321
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\ct2\show\NCT02622321.html
+Content Type: text/html
+
+Uri: https://clinicaltrials.gov/ct2/show/NCT02795767
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\ct2\show\NCT02795767.html
+Content Type: text/html
+
+Uri: https://clinicaltrials.gov/ct2/show/NCT02847637
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\ct2\show\NCT02847637.html
+Content Type: text/html
+
+Uri: https://clinicaltrials.gov/ct2/show/NCT03020160
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\ct2\show\NCT03020160.html
+Content Type: text/html
+
+Uri: https://www.gene.com/
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\index-1.htm
+Content Type: text/html
+
+Uri: https://www.gene.com/contact-us
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\contact-us.html
+Content Type: text/html
+
+Uri: https://www.hemlibra-hcp.com/sitemap.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\sitemap.html
+Content Type: text/html
+
+Uri: https://www.gene.com/privacy-policy
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\privacy-policy.html
+Content Type: text/html
+
+Uri: https://www.gene.com/terms-conditions
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\terms-conditions.html
+Content Type: text/html
+
+Uri: https://nexus.ensighten.com/gene/prod/Bootstrap.js
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\gene\prod\Bootstrap.js
+Content Type: application/javascript
+
+Uri: https://www.hemlibra-hcp.com/content/dam/gene/hemlibra-hcp/images/logo@2x.genecoreimg.750.png
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\content\dam\gene\hemlibra-hcp\images\logo@2x.genecoreimg.750.png
+Content Type: image/png
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/images/optimized-img-placeholder.png
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\images\optimized-img-placeholder.png
+Content Type: image/png
+
+Uri: https://www.hemlibra-hcp.com/content/dam/gene/hemlibra-hcp/images/genentech-a-member-of-the-roche-group-logo-desktop@2x.genecoreimg.240.png
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\content\dam\gene\hemlibra-hcp\images\genentech-a-member-of-the-roche-group-logo-desktop@2x.genecoreimg.240.png
+Content Type: image/png
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/gene-common/clientlibs/clientlib-analytics.min.js
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\gene-common\clientlibs\clientlib-analytics.min.js
+Content Type: application/javascript
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-dependencies.min.js
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-dependencies.min.js
+Content Type: application/javascript
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-base.min.js
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-base.min.js
+Content Type: application/javascript
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/components/structure/loadingoverlay/v1/loadingoverlay/clientlibs/js.min.js
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\components\structure\loadingoverlay\v1\loadingoverlay\clientlibs\js.min.js
+Content Type: application/javascript
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/hemlibra-hcp/clientlibs/clientlib-base.min.js
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\hemlibra-hcp\clientlibs\clientlib-base.min.js
+Content Type: application/javascript
+
+Uri: https://www.google.com/recaptcha/api.js?onload=recaptchaReady
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Regular.eot?
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Regular.woff2
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Regular.woff2
+Content Type: 
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Regular.woff
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Regular.ttf
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Regular.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Bold.eot?
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Bold.woff2
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Bold.woff2
+Content Type: 
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Bold.woff
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Bold.ttf
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Bold.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Regular-Italic.eot?
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Regular-Italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Regular-Italic.woff2
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Regular-Italic.woff2
+Content Type: 
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Regular-Italic.woff
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Regular-Italic.woff
+Content Type: application/font-woff
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Regular-Italic.ttf
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Regular-Italic.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Bold-Italic.eot?
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Bold-Italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Bold-Italic.woff2
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Bold-Italic.woff2
+Content Type: 
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Bold-Italic.woff
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Bold-Italic.woff
+Content Type: application/font-woff
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Bold-Italic.ttf
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Bold-Italic.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Thin.eot?
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Thin.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Thin.woff2
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Thin.woff2
+Content Type: 
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Thin.woff
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Thin.woff
+Content Type: application/font-woff
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Thin.ttf
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Thin.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Thin-Italic.eot?
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Thin-Italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Thin-Italic.woff2
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Thin-Italic.woff2
+Content Type: 
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Thin-Italic.woff
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Thin-Italic.woff
+Content Type: application/font-woff
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Thin-Italic.ttf
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Thin-Italic.ttf
+Content Type: application/font-sfnt
+
+Uri: https://fast.fonts.net/cssapi/2b330ea3-e392-4b4a-996b-3792241a823e.css
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\cssapi\2b330ea3-e392-4b4a-996b-3792241a823e.css
+Content Type: text/css
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/39a8c847-6d65-44ec-92e6-46e2aa8db834.eot?
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\39a8c847-6d65-44ec-92e6-46e2aa8db834.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/23674a3a-6e87-4ade-817d-6bd3b6a7d538.woff2
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\23674a3a-6e87-4ade-817d-6bd3b6a7d538.woff2
+Content Type: 
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/4548ac88-af2c-4b63-ac2b-94e9ef6cd1b9.woff
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\4548ac88-af2c-4b63-ac2b-94e9ef6cd1b9.woff
+Content Type: application/font-woff
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/380327b2-8e54-40b1-a569-eb17e46f7e17.ttf
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\380327b2-8e54-40b1-a569-eb17e46f7e17.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/dedfb9ca-341f-404d-b76e-d781f9ee375f.svg
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\dedfb9ca-341f-404d-b76e-d781f9ee375f.svg
+Content Type: image/svg+xml
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/59736019-b384-44ba-b36e-3b03dcdc8e6c.eot?
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\59736019-b384-44ba-b36e-3b03dcdc8e6c.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/2012d9ca-e6bd-43d1-a275-9e6b0f788e92.woff2
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\2012d9ca-e6bd-43d1-a275-9e6b0f788e92.woff2
+Content Type: 
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/2ac411c9-defd-4f5a-90b0-7179cafd27f4.woff
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\2ac411c9-defd-4f5a-90b0-7179cafd27f4.woff
+Content Type: application/font-woff
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/0c52b397-59d0-4df4-aa7c-06ac915a9f66.ttf
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\0c52b397-59d0-4df4-aa7c-06ac915a9f66.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/dcaa3c19-252a-407d-945c-4b770dd32417.svg
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\dcaa3c19-252a-407d-945c-4b770dd32417.svg
+Content Type: image/svg+xml
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/7e90123f-e4a7-4689-b41f-6bcfe331c00a.eot?
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\7e90123f-e4a7-4689-b41f-6bcfe331c00a.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/64017d81-9430-4cba-8219-8f5cc28b923e.woff2
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\64017d81-9430-4cba-8219-8f5cc28b923e.woff2
+Content Type: 
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/e56ecb6d-da41-4bd9-982d-2d295bec9ab0.woff
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\e56ecb6d-da41-4bd9-982d-2d295bec9ab0.woff
+Content Type: application/font-woff
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/2aff4f81-3e97-4a83-9e6c-45e33c024796.ttf
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\2aff4f81-3e97-4a83-9e6c-45e33c024796.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/ab9cd062-380f-4b53-b1a7-c0bec7402235.svg
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\ab9cd062-380f-4b53-b1a7-c0bec7402235.svg
+Content Type: image/svg+xml
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/fbc6b03a-b3a1-427c-a884-053deca3a53c.eot?
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\fbc6b03a-b3a1-427c-a884-053deca3a53c.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/0d416408-95c6-4ad7-b08d-e60573d3b37d.woff2
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\0d416408-95c6-4ad7-b08d-e60573d3b37d.woff2
+Content Type: 
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/d999c07b-a049-4eb5-b8a6-4f36ae25e67e.woff
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\d999c07b-a049-4eb5-b8a6-4f36ae25e67e.woff
+Content Type: application/font-woff
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/4d4a75f5-d32a-4a09-8665-133afd39cc37.ttf
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\4d4a75f5-d32a-4a09-8665-133afd39cc37.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/8152bc4e-d700-4c78-b6be-326893e6f53f.svg
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\8152bc4e-d700-4c78-b6be-326893e6f53f.svg
+Content Type: image/svg+xml
+
+Uri: https://www.hemlibra-hcp.com/content/dam/gene/hemlibra-hcp/images/butter-knife-top-icon-desktop@2x.png
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\content\dam\gene\hemlibra-hcp\images\butter-knife-top-icon-desktop@2x.png
+Content Type: image/png
+
+Uri: https://www.hemlibra-hcp.com/content/dam/gene/hemlibra-hcp/images/butter-knife-bottom-icon-desktop@2x.png
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\content\dam\gene\hemlibra-hcp\images\butter-knife-bottom-icon-desktop@2x.png
+Content Type: image/png
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/images/pat/triangles.png
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\images\pat\triangles.png
+Content Type: image/png
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/images/pat/start-over.png
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\images\pat\start-over.png
+Content Type: image/png
+
+Uri: https://www.hemlibra-hcp.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/images/pat/update-arrow.png
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\images\pat\update-arrow.png
+Content Type: image/png
+
+Uri: https://www.hemlibra.com/patient.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\patient.html
+Content Type: text/html
+
+Uri: https://www.hemlibra-hcp.com/content/dam/gene/hemlibra-hcp/pdfs/hemlibra-dosing-guide.pdf
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\content\dam\gene\hemlibra-hcp\pdfs\hemlibra-dosing-guide.pdf
+Content Type: application/pdf
+
+Uri: https://www.hemlibra-hcp.com/content/hemlibra-hcp/en_us/dosing-administration/dosing.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\content\hemlibra-hcp\en_us\dosing-administration\dosing.html
+Content Type: text/html
+
+Uri: https://players.brightcove.net/6125588073001/LsmjwqKd_default/index.min.js
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\6125588073001\LsmjwqKd_default\index.min.js
+Content Type: application/javascript
+
+Uri: https://www.gene.com/download/pdf/hemlibra_ifu.pdf
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\download\pdf\hemlibra_ifu.pdf
+Content Type: application/pdf
+
+Uri: https://www.hemlibra-hcp.com/content/dam/gene/hemlibra-hcp/pdfs/starting-hemlibra-quick-reference-guide.pdf
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\content\dam\gene\hemlibra-hcp\pdfs\starting-hemlibra-quick-reference-guide.pdf
+Content Type: application/pdf
+
+Uri: https://www.hemlibra-hcp.com/content/dam/gene/hemlibra-hcp/pdfs/hemlibra-learning-to-inject-brochure-ifu.pdf
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\content\dam\gene\hemlibra-hcp\pdfs\hemlibra-learning-to-inject-brochure-ifu.pdf
+Content Type: application/pdf
+
+Uri: https://www.hemlibra-hcp.com/content/dam/gene/hemlibra-hcp/pdfs/hemlibra-injection-log.pdf
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\content\dam\gene\hemlibra-hcp\pdfs\hemlibra-injection-log.pdf
+Content Type: application/pdf
+
+Uri: https://www.hemlibra-hcp.com/content/dam/gene/hemlibra-hcp/pdfs/hemlibra-lab-monitoring-guide.pdf
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\content\dam\gene\hemlibra-hcp\pdfs\hemlibra-lab-monitoring-guide.pdf
+Content Type: application/pdf
+
+Uri: https://www.hemlibra-hcp.com/content/dam/gene/hemlibra-hcp/pdfs/hemlibra-breakthrough-bleed-management.pdf
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\content\dam\gene\hemlibra-hcp\pdfs\hemlibra-breakthrough-bleed-management.pdf
+Content Type: application/pdf
+
+Uri: https://www.genentech-access.com/hcp/brands/hemlibra/learn-about-our-services/product-distribution.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\hcp\brands\hemlibra\learn-about-our-services\product-distribution.html
+Content Type: text/html
+
+Uri: https://www.hemlibra-hcp.com/content/dam/gene/hemlibra-hcp/pdfs/hemlibra-access-process-tips-worksheet.pdf
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\content\dam\gene\hemlibra-hcp\pdfs\hemlibra-access-process-tips-worksheet.pdf
+Content Type: application/pdf
+
+Uri: https://www.genentech-access.com/hcp/brands/hemlibra.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\hcp\brands\hemlibra.html
+Content Type: text/html
+
+Uri: https://www.gene.com/patients/patient-foundation
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\patients\patient-foundation.html
+Content Type: text/html
+
+Uri: https://www.genentech-access.com/hcp/brands/hemlibra/forms-and-documents.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\hcp\brands\hemlibra\forms-and-documents.html
+Content Type: text/html
+
+Uri: https://www.genentech-access.com/patient/patientconsent.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\patient\patientconsent.html
+Content Type: text/html
+
+Uri: https://www.hemlibra-hcp.com/content/dam/gene/hemlibra-hcp/pdfs/hemlibra-hemophilia-a-patient-travel-letter.pdf
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\content\dam\gene\hemlibra-hcp\pdfs\hemlibra-hemophilia-a-patient-travel-letter.pdf
+Content Type: application/pdf
+
+Uri: https://www.hemlibra.com/patient/support-and-resources/downloadable-resources.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\patient\support-and-resources\downloadable-resources.html
+Content Type: text/html
+
+Uri: https://www.genentech-access.com/hcp/brands/hemlibra/find-patient-assistance.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\hcp\brands\hemlibra\find-patient-assistance.html
+Content Type: text/html
+
+Uri: https://hemlibracopay.com/
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\index-2.htm
+Content Type: text/html
+
+Uri: https://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\safety\medwatch-fda-safety-information-and-adverse-event-reporting-program.html
+Content Type: text/html
+
+Uri: https://www.clinicaltrials.jp/cti-user/trial/ShowDirect.jsp?japicId=JapicCTI-121934
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\cti-user\trial\ShowDirect.jsp.html
+Content Type: text/html
+
+Uri: https://www.clinicaltrials.jp/cti-user/trial/ShowDirect.jsp?japicId=JapicCTI-132195
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\cti-user\trial\ShowDirect.jsp-1.html
+Content Type: text/html
+
+Uri: https://www.hemlibra.com/patient/acerca-de-HEMLIBRA/como-inyectarse-hemlibra.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\patient\acerca-de-HEMLIBRA\como-inyectarse-hemlibra.html
+Content Type: text/html
+
+Uri: https://www.genentech-access.com/hcp/brands/hemlibra/find-patient-assistance/co-pay-programs.html
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\hcp\brands\hemlibra\find-patient-assistance\co-pay-programs.html
+Content Type: text/html
+
+Uri: https://www.hemophilia.org/news/medical-advisory-428-mylan-recalls-amiodarone-tranexemaic-acid-injection
+File Name: C:\Downloaded Web Sites\www.hemlibra-hcp.com\news\medical-advisory-428-mylan-recalls-amiodarone-tranexemaic-acid-injection.html
+Content Type: text/html
+

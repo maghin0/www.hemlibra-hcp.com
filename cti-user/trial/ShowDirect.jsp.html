@@ -1,0 +1,1030 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="UTF-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+	<meta name="viewport" content="width=device-width,initial-scale=1"/>
+
+	<title>臨床試験情報詳細画面 | 一般財団法人日本医薬情報センター 臨床試験情報</title>
+	<link rel="stylesheet" type="text/css" href="../common/css/jquery-ui.min.css"/>
+	<link rel="stylesheet" type="text/css" href="../common/css/jquery-ui.structure.min.css"/>
+	<link rel="stylesheet" type="text/css" href="../common/css/jquery-ui.theme.min.css"/>
+	<link rel="stylesheet" type="text/css" href="../common/css/base.css"/>
+	<link rel="stylesheet" type="text/css" href="../common/css/button.css"/>
+	<link rel="stylesheet" type="text/css" href="../common/css/tabbed.css"/>
+	<link rel="stylesheet" type="text/css" href="../common/css/table.css"/>
+	<link rel="stylesheet" type="text/css" href="../common/css/form.css"/>
+	<link rel="stylesheet" type="text/css" href="../trial/css/show.css"/>
+
+	<script type="text/javascript" language="javascript" src="../common/js/jquery-3.3.1.min.js"></script>
+	<script type="text/javascript" language="javascript" src="../common/js/jquery-ui.min.js"></script>
+	<script type="text/javascript" language="javascript" src="../common/js/jquery-ui-i18n.min.js"></script>
+	<script type="text/javascript" language="javascript" src="../common/js/jquery.validator.js"></script>
+	<script type="text/javascript" language="javascript" src="../common/js/custom.datepicker.js"></script>
+	<script type="text/javascript" language="javascript" src="../common/js/copyright.js"></script>
+	<script type="text/javascript" language="javascript" src="../common/js/logout.js"></script>
+	<script type="text/javascript" language="javascript" src="../common/js/ecmap.js"></script>
+	<script type="text/javascript" language="javascript" src="../trial/js/show.js"></script>
+</head>
+<body>
+	<!-- ▽▽ ヘッダブロック  ▽▽ -->
+	<header>
+		<div class="is-logo" ><img src="../common/images/IS-logo.gif"       alt="医薬サーチ"/></div>
+		<div class="cti-logo"><img src="../common/images/JapicCTI-logo.gif" alt="臨床試験情報"/></div>
+		<div class="usr-info"></div>
+		<div class="logout"  ></div>
+	</header>
+	<!-- △△ ヘッダブロック  △△ -->
+
+	<!-- ▽▽ ナビゲーションブロック  ▽▽ -->
+	<nav>
+	</nav>
+	<!-- △△ ナビゲーションブロック  △△ -->
+	<!-- ▽▽ インフォーメーションブロック  ▽▽ -->
+	<div class="information">
+		<div class="remark-j">更新履歴にある更新日が2018/12/15以前である場合、その情報は旧フォーマットに則って作成されています。</div>
+		<div class="remark-e">If update date in update history is before 2018/12/15, the information was created in accordance with the old format.</div>
+	</div>
+	<!-- △△ インフォーメーションブロック  △△ -->
+
+	<!-- ▽▽ コンテンツブロック  ▽▽ -->
+	<div class="contents">
+		<div class="form-wrapper no-padding">
+			<!-- ↓ 更新履歴 ↓-->
+			<div class="title-box"><p>更新履歴 / update history information</p></div>
+			<table class="detail register basic">
+			<colgroup>
+				<col class="group_header">
+				<col class="header2">
+				<col class="data">
+				<col class="data">
+			</colgroup>
+			<thead>
+				<tr>
+					<th class="header" colspan="2">項目名 / Item</th>
+					<th class="data"  >日本語 / Japanese</th>
+					<th class="data"  >英語 / English</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">最新登録日</span><i class="header-en">last update registered date</i></td>
+					<td class="data"   colspan="2">2018/10/10</td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">最新掲載日</span><i class="header-en">last update posted date</i></td>
+					<td class="data"   colspan="2">2018/10/18</td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">初回登録日</span><i class="header-en">first registered date</i></td>
+					<td class="data"   colspan="2">2012/08/17</td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">初回掲載日</span><i class="header-en">first posted date</i></td>
+					<td class="data"   colspan="2">2012/08/24</td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">結果概要初回登録日</span><i class="header-en">first registered date for the result</i></td>
+					<td class="data"   colspan="2">2018/10/10</td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">結果概要初回掲載日</span><i class="header-en">first posted date for the result</i></td>
+					<td class="data"   colspan="2">2018/10/18</td>
+				</tr>
+				<tr>
+					<td class="header dheader2" colspan="2" rowspan="16"><span class="header-ja">更新履歴</span><i class="header-en">update history</i></td>
+					<td class="data dheader"   >更新日 / updated date</td>
+					<td class="data dheader"   >最新照合日 / last reviewed date</td>
+				</tr>
+				<tr>
+					<td class="data ddata ">2018/12/17 JAPICによる結合情報  / merged information by JAPIC 
+					</td>
+					<td class="data ddata ">
+					</td>
+				</tr>
+				<tr>
+					<td class="data ddata "><a href="#" class="showOther" ctid="23435">2018/10/10 改訂 結果（英語）  / revised result (EN) </a>
+					</td>
+					<td class="data ddata ">
+					</td>
+				</tr>
+				<tr>
+					<td class="data ddata "><a href="#" class="showOther" ctid="23434">2018/10/10 改訂 結果（日本語）  / revised result (JA) </a>
+					</td>
+					<td class="data ddata ">
+					</td>
+				</tr>
+				<tr>
+					<td class="data ddata "><a href="#" class="showOther" ctid="17038">2016/11/24 改訂 概要（英語）  / revised summary (EN) </a>
+					</td>
+					<td class="data ddata ">
+					</td>
+				</tr>
+				<tr>
+					<td class="data ddata "><a href="#" class="showOther" ctid="17037">2016/11/24 改訂 概要（日本語）  / revised summary (JA) </a>
+					</td>
+					<td class="data ddata ">
+					</td>
+				</tr>
+				<tr>
+					<td class="data ddata "><a href="#" class="showOther" ctid="14695">2015/12/22 改訂 概要（英語）  / revised summary (EN) </a>
+					</td>
+					<td class="data ddata ">
+					</td>
+				</tr>
+				<tr>
+					<td class="data ddata "><a href="#" class="showOther" ctid="14694">2015/12/22 改訂 概要（日本語）  / revised summary (JA) </a>
+					</td>
+					<td class="data ddata ">
+					</td>
+				</tr>
+				<tr>
+					<td class="data ddata "><a href="#" class="showOther" ctid="14103">2015/09/14 改訂 概要（英語）  / revised summary (EN) </a>
+					</td>
+					<td class="data ddata ">
+					</td>
+				</tr>
+				<tr>
+					<td class="data ddata "><a href="#" class="showOther" ctid="14102">2015/09/14 改訂 概要（日本語）  / revised summary (JA) </a>
+					</td>
+					<td class="data ddata ">
+					</td>
+				</tr>
+				<tr>
+					<td class="data ddata "><a href="#" class="showOther" ctid="13988">2015/08/26 改訂 概要（英語）  / revised summary (EN) </a>
+					</td>
+					<td class="data ddata ">
+					</td>
+				</tr>
+				<tr>
+					<td class="data ddata "><a href="#" class="showOther" ctid="13987">2015/08/26 改訂 概要（日本語）  / revised summary (JA) </a>
+					</td>
+					<td class="data ddata ">
+					</td>
+				</tr>
+				<tr>
+					<td class="data ddata "><a href="#" class="showOther" ctid="11694">2014/07/14 改訂 概要（英語）  / revised summary (EN) </a>
+					</td>
+					<td class="data ddata ">
+					</td>
+				</tr>
+				<tr>
+					<td class="data ddata "><a href="#" class="showOther" ctid="11693">2014/07/14 改訂 概要（日本語）  / revised summary (JA) </a>
+					</td>
+					<td class="data ddata ">
+					</td>
+				</tr>
+				<tr>
+					<td class="data ddata "><a href="#" class="showOther" ctid="7542">2012/08/17 改訂 概要（英語）  / revised summary (EN) </a>
+					</td>
+					<td class="data ddata ">
+					</td>
+				</tr>
+				<tr>
+					<td class="data ddata isLast"><a href="#" class="showOther" ctid="7541">2012/08/17 新規作成 概要（日本語）  / initial created summary (JA) </a>
+					</td>
+					<td class="data ddata isLast">
+					</td>
+				</tr>
+			</tbody>
+			</table>
+			<!-- ↑ 更新履歴 ↑-->
+
+			<!-- ↓ 基本情報 ↓-->
+			<div class="title-box"><p>基本情報 / basic information</p></div>
+			<table class="detail register basic">
+			<colgroup>
+				<col class="group_header">
+				<col class="header2">
+				<col class="data">
+				<col class="data">
+			</colgroup>
+			<thead>
+				<tr>
+					<th class="header" colspan="2">項目名 / Item</th>
+					<th class="data"  >日本語 / Japanese</th>
+					<th class="data"  >英語 / English</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">JapicCTI-No.</span></td>
+					<td class="data" colspan="2">JapicCTI-121934</td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">他の登録機関</span><i class="header-en">other registries</i></td>
+					<td class="data" colspan="2">
+						
+						
+					</td>
+				</tr>
+			</tbody>
+			<tbody class="issuer">
+				<tr>
+					<td class="group_title" colspan="4">他の登録機関</td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2"><span class="header-ja">他の登録機関の名称</span><i class="header-en">name of other registries</i></td>
+					<td class="group_data" colspan="2">
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+					</td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2"><span class="header-ja">他の登録機関でのID番号</span><i class="header-en">secondary ID no.</i></td>
+					<td class="group_data" colspan="2">
+						
+					</td>
+				</tr>
+			</tbody>
+			<tbody>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">IPD共有に関する計画</span><i class="header-en">plan to share IPD</i></td>
+					<td class="data" colspan="2">
+						
+						
+						
+					</td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">IPD共有に関する計画の詳細</span><i class="header-en">plan description</i></td>
+					<td class="data"></td>
+					<td class="data"></td>
+				</tr>
+			</tbody>
+			</table>
+			<!-- ↑ 基本情報 ↑-->
+
+			<!-- ↓ 試験名 ↓-->
+			<div class="title-box"><p>試験名 / title for the study</p></div>
+			<table class="detail register name">
+			<colgroup>
+				<col class="group_header">
+				<col class="header2">
+				<col class="data">
+				<col class="data">
+			</colgroup>
+			<thead>
+				<tr>
+					<th class="header" colspan="2">項目名 / Item</th>
+					<th class="data"  >日本語 / Japanese</th>
+					<th class="data"  >英語 / English</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">試験の名称</span><i class="header-en">scientific title</i></td>
+					<td class="data">ACE910の健康成人及び血友病A患者を対象とした第I相臨床試験</td>
+					<td class="data">Phase 1 study of ACE910 in healthy volunteers and hemophilia A patients</td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">簡易な試験の名称</span><i class="header-en">public title</i></td>
+					<td class="data">ACE910の第I相試験</td>
+					<td class="data">Phase 1 study of ACE910</td>
+				</tr>
+			</tbody>
+			</table>
+			<!-- ↑ 試験名↑-->
+
+			<!-- ↓ 試験に用いる薬剤 ↓-->
+			<div class="title-box"><p>試験に用いる薬剤等 / investigational material</p></div>
+			<table class="detail register medicine">
+			<colgroup>
+				<col class="group_header">
+				<col class="header2">
+				<col class="data">
+				<col class="data">
+			</colgroup>
+			<thead>
+				<tr>
+					<th class="header" colspan="2">項目名 / Item</th>
+					<th class="data"  >日本語 / Japanese</th>
+					<th class="data"  >英語 / English</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">試験対象薬剤等</span><i class="header-en">investigational material</i></td>
+					<td class="data" colspan="2">
+					</td>
+				</tr>
+			</tbody>
+			<tbody class="material">
+				<tr>
+					<td class="group_title" colspan="4">試験対象薬剤等 / investigational material(s)</td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2"><span class="header-ja">一般的名称等</span><i class="header-en">generic name etc.</i></td>
+					<td class="data">ACE910</td>
+					<td class="data">ACE910</td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2"><span class="header-ja">薬剤：試験薬剤ＩＮＮ</span><i class="header-en">INN of investigational material</i></td>
+					<td class="data" colspan="2">emicizumab</td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2"><span class="header-ja">試験対象品目：薬剤：薬効分類コード</span><i class="header-en">investigational material：medicine：therapeutic category code</i></td>
+					<td class="data" colspan="2"><span class="ecsCode">634</span> <span class="ecsText autoFill" cd="634" lang="ja"></span> / <span class="ecsText autoFill" cd="634" lang="en"></span></td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2"><span class="header-ja">用法・用量、使用方法</span><i class="header-en">dosage and administration for investigational material</i></td>
+					<td class="data">複数用量のACE910を単回及び反復皮下投与する。</td>
+					<td class="data">Single and multiple subcutaneous administration of several doses of ACE910</td>
+				</tr>
+			</tbody>
+			<tbody class="cmaterial">
+				<tr>
+					<td class="group_title" colspan="4">対照薬剤等 / control material(s)</td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2"><span class="header-ja">一般的名称等</span><i class="header-en">generic name of control material</i></td>
+					<td class="data"></td>
+					<td class="data"></td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2"><span class="header-ja">薬剤：対照薬剤ＩＮＮ</span><i class="header-en">INN of control material</i></td>
+					<td class="data" colspan="2"></td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2"><span class="header-ja">試験対象品目の対照：薬剤：薬効分類コード</span><i class="header-en">control material：medicine：therapeutic category code</i></td>
+					<td class="data" colspan="2"></td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2"><span class="header-ja">用法・用量、使用方法</span><i class="header-en">dosage and administration for control material</i></td>
+					<td class="data"></td>
+					<td class="data"></td>
+				</tr>
+			</tbody>
+			</table>
+			<!-- ↑ 試験に用いる薬剤↑-->
+
+			<!-- ↓ 試験の概要 ↓-->
+			<div class="title-box"><p>試験の概要 / brief summary</p></div>
+			<table class="detail register brief">
+			<colgroup>
+				<col class="group_header">
+				<col class="header2">
+				<col class="data">
+				<col class="data">
+			</colgroup>
+			<thead>
+				<tr>
+					<th class="header" colspan="2">項目名 / Item</th>
+					<th class="data"  >日本語 / Japanese</th>
+					<th class="data"  >英語 / English</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="header" colspan="2" ><span class="header-ja">試験の目的</span><i class="header-en">objective</i></td>
+					<td class="data" colspan="2">
+					</td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">試験のフェーズ</span><i class="header-en">phase</i></td>
+					<td class="group_data" colspan="2">
+						フェーズ１ / phase1
+						
+						
+						
+						
+						
+						
+					</td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">試験の種類</span><i class="header-en">study type</i></td>
+					<td class="data" colspan="2">
+						介入試験 / interventional study
+						
+					</td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">第1被験者登録・組み入れ日</span><i class="header-en">date of first enrolment</i></td>
+					<td class="data"   colspan="2"></td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">予定試験期間</span><i class="header-en">expected duration of study</i></td>
+					<td class="data" colspan="2">
+						2012/08/01
+						～ 
+						2015/08/01
+					</td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">目標症例数</span><i class="header-en">target sample size</i></td>
+					<td class="data" colspan="2">82</td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">試験の概要</span><i class="header-en">brief summary</i></td>
+					<td class="data">日本人及び白人の健康成人男性と日本人の血友病A患者を対象に，ACE910を皮下投与した際の忍容性，安全性，薬物動態及び薬力学的反応について検討する。また，ACE910の薬物動態及び薬力学的反応の人種差を検討するため，日本人と白人の薬物動態及び薬力学的反応を比較する。</td>
+					<td class="data">The objective of the present study is to evaluate the tolerability, safety, pharmacokinetic and pharmacodynamic profiles of ACE910 subcutaneously administered to both Japanese and Caucasian healthy adult male volunteers, and also to Japanese hemophilia A patients. Furthermore, the ethnic differences of pharmacokinetic and pharmacodynamic profiles between Japanese and Caucasian are to be investigated.</td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">試験のデザイン</span><i class="header-en">study design</i></td>
+					<td class="data">単回投与によるプラセボ対照・ランダム割付・二重盲検・個体間用量漸増試験及び反復投与による非盲検・個体間用量漸増試験</td>
+					<td class="data">Randomized, placebo-controlled, double-blind, single ascending dose study and open-label multiple ascending dose study</td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2" rowspan="1"><span class="header-ja">試験実施国・地域</span><i class="header-en">countries / regions of recruitment</i></td>
+					<td class="data" colspan="2">
+					</td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">適格基準</span><i class="header-en">inclusion criteria</i></td>
+					<td class="data">【健康成人】<br/>・日本人又は白人である者<br/>・20歳以上44歳以下<br/>【患者】<br/>・日本人の重症先天性血友病A患者<br/>・12歳以上59歳以下<br/>・登録前6カ月間の出血エピソード（出血時期，出血部位）と血液凝固因子製剤による治療状況の記録が残されている者<br/>・登録時に以下のいずれかの条件を満たす者<br/>(1) インヒビター保有患者の場合，登録前6カ月間は月に1回以上の頻度で出血を呈している者<br/>(2) インヒビター非保有患者の場合，登録前に血液凝固第VIII因子（FVIII）製剤が150回以上投与され，登録前6カ月間はFVIII製剤の定期補充療法を施行している者<br/></td>
+					<td class="data">[Healthy volunteer]<br/>- Japanese or Caucasian<br/>- Age 20 - 44 years, inclusive<br/><br/>[Patient]<br/>- Japanese severe congenital hemophilia A<br/>- Age 12 - 59 years, inclusive<br/>- Recorded bleeding episodes (bleeding period, bleeding site) and the therapeutic history with blood coagulation factor products for six months prior to entry<br/>- Meet any of the criteria below at the time of entry<br/>(1) For patient with inhibitors, exhibited bleeding more frequently than once a month for six months prior to entry<br/>(2) For patient without inhibitors, administered factor VIII products more than 150 times prior to entry, and  underwent prophylaxis for six months prior to entry<br/></td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">適格基準：年齢（下限）</span><i class="header-en">minimum age</i></td>
+					<td class="data" colspan="2">
+						12
+						
+						
+						歳 / year
+						
+					</td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">適格基準：年齢（上限）</span><i class="header-en">maximum age</i></td>
+					<td class="data" colspan="2">
+						59
+						
+						
+						歳 / year
+						
+					</td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">適格基準：性別</span><i class="header-en">gender</i></td>
+					<td class="data" colspan="2">
+						男性 / male
+						
+						
+					</td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">除外基準</span><i class="header-en">exclusion criteria</i></td>
+					<td class="data">【健康成人】<br/>・深部静脈血栓症等の血栓塞栓症疾患の既往や合併のある者<br/>【患者】<br/>・先天性血友病A以外の出血性疾患を有する者<br/>・深部静脈血栓症等の血栓塞栓症疾患の既往や合併のある者<br/>・治験期間中に免疫寛容導入療法を施行する予定の者</td>
+					<td class="data">[Healthy volunteer]<br/>- Have thromboembolic disease, such as deep vein thrombosis, or its previous history<br/><br/>[Patient]<br/>- With bleeding disease except congenital hemophilia A<br/>- Have thromboembolic disease, such as deep vein thrombosis, or its previous history<br/>- Plan to undergo the immune tolerance induction therapy during the clinical study<br/></td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">疾患名</span><i class="header-en">health condition or problem studied</i></td>
+					<td class="data">血友病A</td>
+					<td class="data">Hemophilia A</td>
+				</tr>
+			</tbody>
+			<tbody class="p-outcome">
+				<tr>
+					<td class="group_title" colspan="4">評価項目・方法：主要な評価項目 / primary outcome</td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2" rowspan="2"><span class="header-ja">評価項目・方法：主要な評価項目</span><i class="header-en">primary outcome</i></td>
+					<td class="data" colspan="2">
+					</td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="data">忍容性，安全性，薬物動態，薬力学的反応<br/>観察・検査</td>
+					<td class="data">Tolerability, Safety, Pharmacokinetics, Pharmacodynamics<br/>Observation, Laboratory tests</td>
+				</tr>
+			</tbody>
+			<tbody class="s-outcome">
+				<tr>
+					<td class="group_title" colspan="4">評価項目・方法：副次的な評価項目 / secondary outcome</td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2" rowspan="2"><span class="header-ja">評価項目・方法：副次的な評価項目</span><i class="header-en">secondary outcome</i></td>
+					<td class="data" colspan="2">
+					</td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="data"></td>
+					<td class="data"></td>
+				</tr>
+			</tbody>
+			<tbody>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">試験実施施設</span><i class="header-en">examination facility</i></td>
+					<td class="data"></td>
+					<td class="data"></td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">試験の現状</span><i class="header-en">study status</i></td>
+					<td class="data" colspan="2">
+						
+						
+						
+						
+						試験完了 / completed
+					</td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">被験者募集状況</span><i class="header-en">recruitment status</i></td>
+					<td class="data" colspan="2">
+						
+						
+						
+						
+						
+						
+					</td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">試験終了日または中止日</span><i class="header-en">completion date or terminated date</i></td>
+					<td class="data"   colspan="2"></td>
+				</tr>
+			</tbody>
+			</table>
+			<!-- ↑ 試験の概要↑-->
+
+			<!-- ↓ IRB等に関する事項 ↓-->
+			<div class="title-box"><p>IRB等に関する事項 / information about IRB(s)</p></div>
+			<div class="title-remark">
+注意：『IRB等に関する事項』にある機関等への問合せはご遠慮ください。また、IRBが複数存在する場合、一部のIRB情報のみが公開されている場合があります。<br />
+　　　　問合せに関しては、項目『問合せ先』（参照：項目『IRB等に関する事項』から3件下にある項目）にある会社または機関へご連絡ください。
+			</div>
+			<table class="detail register irb">
+			<colgroup>
+				<col class="group_header">
+				<col class="group_header2">
+				<col class="header3">
+				<col class="data">
+				<col class="data">
+			</colgroup>
+			<thead>
+				<tr>
+					<th class="header" colspan="3">項目名 / Item</th>
+					<th class="data"  >日本語 / Japanese</th>
+					<th class="data"  >英語 / English</th>
+				</tr>
+			</thead>
+			<tbody class="irb">
+				<tr>
+					<td class="group_title" colspan="5">IRB等に関する情報</td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2" colspan="2"><span class="header-ja">名称</span><i class="header-en">name of IRB</i></td>
+					<td class="data"></td>
+					<td class="data"></td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2" colspan="2"><span class="header-ja">住所</span><i class="header-en">address of IRB</i></td>
+					<td class="data"></td>
+					<td class="data"></td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2" colspan="2"><span class="header-ja">電話番号</span><i class="header-en">phone number of IRB</i></td>
+					<td class="data"></td>
+					<td class="data"></td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2" colspan="2"><span class="header-ja">Eメールアドレス</span><i class="header-en">e-mail address of IRB</i></td>
+					<td class="data"></td>
+					<td class="data"></td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2" colspan="2"><span class="header-ja">審査の状況</span><i class="header-en">status of IRB review</i></td>
+					<td class="data" colspan="2"></td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2" colspan="2"><span class="header-ja">承認日</span><i class="header-en">date of approval by IRB</i></td>
+					<td class="data"    colspan="2"></td>
+				</tr>
+			</tbody>
+			</table>
+			<!-- ↑ IRB等に関する事項↑-->
+
+			<!-- ↓ 試験実施組織 ↓-->
+			<div class="title-box"><p>試験実施組織 / organizations</p></div>
+			<table class="detail register sponsor">
+			<colgroup>
+				<col class="group_header">
+				<col class="header2">
+				<col class="data">
+				<col class="data">
+			</colgroup>
+			<thead>
+				<tr>
+					<th class="header" colspan="2">項目名 / Item</th>
+					<th class="data"  >日本語 / Japanese</th>
+					<th class="data"  >英語 / English</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">試験実施者</span><i class="header-en">primary sponsor</i></td>
+					<td class="data">中外製薬株式会社</td>
+					<td class="data">Chugai Pharmaceutical Co., Ltd.</td>
+				</tr>
+			</tbody>
+			<tbody class="sponsor"><tbody>
+				<tr>
+					<td class="group_title" colspan="4">共同開発者 / secondary sponsor</td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2"><span class="header-ja">共同開発者</span><i class="header-en">secondary sponsor</i></td>
+					<td class="data"></td>
+					<td class="data"></td>
+				</tr>
+			</tbody>
+			</table>
+			<!-- ↑ 試験実施組織↑-->
+
+			<!-- ↓ 資金提供組織 ↓-->
+			<div class="title-box"><p>資金提供組織 / monetary sponsor</p></div>
+			<table class="detail register fund">
+			<colgroup>
+				<col class="group_header">
+				<col class="header2">
+				<col class="data">
+				<col class="data">
+			</colgroup>
+			<thead>
+				<tr>
+					<th class="header" colspan="2">項目名 / Item</th>
+					<th class="data"  >日本語 / Japanese</th>
+					<th class="data"  >英語 / English</th>
+				</tr>
+			</thead>
+			<tbody class="fund">
+				<tr>
+					<td class="group_title" colspan="4">組織名称 / name of monetary sponsor</td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2"><span class="header-ja">組織名称</span><i class="header-en">name of funding organization</i></td>
+					<td class="data"></td>
+					<td class="data"></td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2"><span class="header-ja">研究費の名称</span><i class="header-en">name of research funding</i></td>
+					<td class="data"></td>
+					<td class="data"></td>
+				</tr>
+			</tbody>
+			</table>
+			<!-- ↑ 資金提供組織↑-->
+
+			<!-- ↓ 問合せ先 ↓-->
+			<div class="title-box"><p>問合せ先 / contact information</p></div>
+			<table class="detail register query">
+			<colgroup>
+				<col class="group_header">
+				<col class="header2">
+				<col class="data">
+				<col class="data">
+			</colgroup>
+			<thead>
+				<tr>
+					<th class="header" colspan="2">項目名 / Item</th>
+					<th class="data"  >日本語 / Japanese</th>
+					<th class="data"  >英語 / English</th>
+				</tr>
+			</thead>
+			<tbody class="p-query">
+				<tr>
+					<td class="group_title" colspan="4">一般的な問合せ先 / public queries</td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2"><span class="header-ja">会社名・機関名</span><i class="header-en">contact name for public queries</i></td>
+					<td class="data">中外製薬株式会社</td>
+					<td class="data">Chugai Pharmaceutical Co., Ltd.</td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2"><span class="header-ja">問合せ部署名</span><i class="header-en">department name for contact</i></td>
+					<td class="data">臨床試験窓口</td>
+					<td class="data">Clinical trials information</td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2"><span class="header-ja">連絡先住所</span><i class="header-en">address</i></td>
+					<td class="data">clinical-trials@chugai-pharm.co.jp</td>
+					<td class="data">clinical-trials@chugai-pharm.co.jp</td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2"><span class="header-ja">連絡先電話番号</span><i class="header-en">phone number </i></td>
+					<td class="data"></td>
+					<td class="data"></td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2"><span class="header-ja">連絡先Eメールアドレス</span><i class="header-en">e-mail address </i></td>
+					<td class="data"></td>
+					<td class="data"></td>
+				</tr>
+			</tbody>
+			<tbody class="s-query">
+				<tr>
+					<td class="group_title" colspan="4">科学的な問合せ先 / scientific queries</td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2"><span class="header-ja">会社名・機関名</span><i class="header-en">contact name for scientific queries</i></td>
+					<td class="data">中外製薬株式会社</td>
+					<td class="data">Chugai Pharmaceutical Co., Ltd.</td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2"><span class="header-ja">問合せ部署名</span><i class="header-en">department name for contact</i></td>
+					<td class="data">臨床試験窓口</td>
+					<td class="data">Clinical trials information</td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2"><span class="header-ja">連絡先住所</span><i class="header-en">address</i></td>
+					<td class="data">clinical-trials@chugai-pharm.co.jp</td>
+					<td class="data">clinical-trials@chugai-pharm.co.jp</td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2"><span class="header-ja">連絡先電話番号</span><i class="header-en">phone number </i></td>
+					<td class="data"></td>
+					<td class="data"></td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2"><span class="header-ja">連絡先Eメールアドレス</span><i class="header-en">e-mail address </i></td>
+					<td class="data"></td>
+					<td class="data"></td>
+				</tr>
+			</tbody>
+			</table>
+			<!-- ↑ 問合せ先↑-->
+
+			<!-- ↓ その他 ↓-->
+			<div class="title-box"><p>その他 / other</p></div>
+			<table class="detail register other">
+			<colgroup>
+				<col class="group_header">
+				<col class="header2">
+				<col class="data">
+				<col class="data">
+			</colgroup>
+			<thead>
+				<tr>
+					<th class="header" colspan="2">項目名 / Item</th>
+					<th class="data"  >日本語 / Japanese</th>
+					<th class="data"  >英語 / English</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">関連の試験番号とその名称</span><i class="header-en">related study ID number and its name</i></td>
+					<td class="data"></td>
+					<td class="data"></td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">その他</span><i class="header-en">other</i></td>
+					<td class="data">症例数：82（日本人健康成人：40，白人健康成人：24，患者：18）<br/><br/>試験実施地域 : 日本<br/>試験の目的 : 治療<br/>試験の現状 : 終了<br/></td>
+					<td class="data">Sample Size: 82 (Japanese healthy volunteers: 40, Caucasian healthy volunteers: 24, Patients: 18)<br/><br/>Region : Japan<br/>Objectives of the study : Treatment <br/>Study status : Completed<br/></td>
+				</tr>
+			</tbody>
+			<tbody class="relation">
+				<tr>
+					<td class="group_title" colspan="4">関連情報（既存薬の添付文書、審査報告書、新薬承認情報集等） / related information(e.c. package insert for existing medicine)</td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2"><span class="header-ja">名称</span><i class="header-en">name</i></td>
+					<td class="data"></td>
+					<td class="data"></td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2"><span class="header-ja">ＵＲＬ</span></td>
+					<td class="data"></td>
+					<td class="data"></td>
+				</tr>
+				<tr>
+					<td class="group_header"></td>
+					<td class="header2"><span class="header-ja">上記情報の簡易的な説明</span><i class="header-en">brief description</i></td>
+					<td class="data"></td>
+					<td class="data"></td>
+				</tr>
+			</tbody>
+			</table>
+			<!-- ↑ その他↑-->
+
+			<!-- ↓ 試験結果の概要 ↓-->
+			<div class="title-box"><p>試験結果の概要 / result summary</p></div>
+			<table class="detail register result">
+			<colgroup>
+				<col class="group_header">
+				<col class="header2">
+				<col class="data">
+				<col class="data">
+			</colgroup>
+			<thead>
+				<tr>
+					<th class="header" colspan="2">項目名 / Item</th>
+					<th class="data"  >日本語 / Japanese</th>
+					<th class="data"  >英語 / English</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">出版物の掲載</span><i class="header-en">posting of journal publication</i></td>
+					<td class="data" colspan="2">
+						
+						
+					</td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">初回の出版物の掲載日</span><i class="header-en">date of the first journal publication of results</i></td>
+					<td class="data" colspan="2"></td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">結果および出版物に関するURL</span><i class="header-en">URL hyperlink(s) related to results and publications</i></td>
+					<td class="data" colspan="2"></td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">試験の対象者に関する背景情報</span><i class="header-en">baseline characteristics</i></td>
+					<td class="data"></td>
+					<td class="data"></td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">実際の症例数</span><i class="header-en">actual enrolled number</i></td>
+					<td class="data" colspan="2"></td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">試験の対象者のフロー</span><i class="header-en">participant flow</i></td>
+					<td class="data"></td>
+					<td class="data"></td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">有害事象に関するまとめ</span><i class="header-en">adverse events</i></td>
+					<td class="data"></td>
+					<td class="data"></td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">主要評価項目の解析結果</span><i class="header-en">primary outcome measures</i></td>
+					<td class="data"></td>
+					<td class="data"></td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">副次的評価項目の解析結果</span><i class="header-en">secondary outcome measures</i></td>
+					<td class="data"></td>
+					<td class="data"></td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">簡潔な要約</span><i class="header-en">brief summary</i></td>
+					<td class="data"></td>
+					<td class="data"></td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">試験のプロトコールファイル：URL</span><i class="header-en">URL link to protocol file(s)</i></td>
+					<td class="data"><a href="" target="_new"></a></td>
+					<td class="data"><a href="" target="_new"></a></td>
+				</tr>
+				<tr>
+					<td class="header" colspan="2"><span class="header-ja">試験のプロトコールファイル：版、日付</span><i class="header-en">version and date of protocol file(s)</i></td>
+					<td class="data">
+						版：<br />
+						日付：
+					</td>
+					<td class="data">
+						version：<br />
+						date：
+					</td>
+				</tr>
+			</tbody>
+			</table>
+			<table class="detail register result">
+			<colgroup>
+				<col class="group_header">
+				<col class="header2">
+				<col class="data">
+				<col class="data">
+			</colgroup>
+			<tbody>
+				<tr class="obsolete">
+					<td class="header" colspan="2"><span class="header-ja">JapicCTI-RNo.</span></td>
+					<td class="data" colspan="2">JapicCTI-R181155</td>
+				</tr>
+				<tr class="obsolete">
+					<td class="header" colspan="2"><span class="header-ja">試験の名称</span><i class="header-en">scientific title</i></td>
+					<td class="data">ACE910の健康成人及び血友病A患者を対象とした第I相臨床試験</td>
+					<td class="data">Phase 1 study of ACE910 in healthy volunteers and hemophilia A patients</td>
+				</tr>
+				<tr class="obsolete">
+					<td class="header" colspan="2"><span class="header-ja">商品名</span><i class="header-en">brand name</i></td>
+					<td class="data">ヘムライブラ</td>
+					<td class="data">Hemlibra</td>
+				</tr>
+				<tr class="obsolete">
+					<td class="header" colspan="2"><span class="header-ja">治験成分記号</span><i class="header-en">trial code</i></td>
+					<td class="data">ACE910/RG6013</td>
+					<td class="data">ACE910/RG6013</td>
+				</tr>
+				<tr class="obsolete">
+					<td class="header" colspan="2"><span class="header-ja">一般名</span><i class="header-en">generic name</i></td>
+					<td class="data">エミシズマブ</td>
+					<td class="data">Emicizumab</td>
+				</tr>
+				<tr class="obsolete">
+					<td class="header" colspan="2"><span class="header-ja">対象疾患</span><i class="header-en">indication</i></td>
+					<td class="data">血友病A</td>
+					<td class="data">Hemophilia A</td>
+				</tr>
+				<tr class="obsolete">
+					<td class="header" colspan="2"><span class="header-ja">症状名</span><i class="header-en">symptom</i></td>
+					<td class="data"></td>
+					<td class="data"></td>
+				</tr>
+				<tr class="obsolete">
+					<td class="header" colspan="2"><span class="header-ja">薬効分類</span><i class="header-en">therapeutic category</i></td>
+					<td class="data">634 <span class="ecsText autoFill" cd="634" lang="ja"></span></td>
+					<td class="data">634 <span class="ecsText autoFill" cd="634" lang="en"></span></td>
+				</tr>
+				<tr class="obsolete">
+					<td class="header" colspan="2"><span class="header-ja">試験実施者</span><i class="header-en">primary sponsor</i></td>
+					<td class="data">中外製薬株式会社</td>
+					<td class="data">CHUGAI PHARMACEUTICAL CO., LTD.</td>
+				</tr>
+				<tr class="obsolete">
+					<td class="header" colspan="2"><span class="header-ja">JapicCTI-No.</span></td>
+					<td class="data" colspan="2">JapicCTI-121934</td>
+				</tr>
+				<tr class="obsolete">
+					<td class="header" colspan="2"><span class="header-ja">ファイル種別</span></td>
+					<td class="data">PDF</td>
+					<td class="data">PDF</td>
+				</tr>
+				<tr class="obsolete">
+					<td class="header" colspan="2"><span class="header-ja">ファイル</span></td>
+					<td class="data"><a class="button btn-normal2 fileDownload" lang="ja">ダウンロード</a></td>
+					<td class="data"><a class="button btn-normal2 fileDownload" lang="en">Download</a></td>
+				</tr>
+			</tbody>
+			</table>
+			<!-- ↑ 試験結果の概要↑-->
+
+		</div>
+	</div>
+	<!-- △△ コンテンツブロック  △△ -->
+
+	<form name="backForm" method="post">
+	</form>
+
+	<form name="nextForm" method="post">
+		<input type="hidden" name="clinicalTrialId" value="">
+		<input type="hidden" name="referer"         value="">
+	</form>
+
+	<form name="downloadForm" method="post">
+		<input type="hidden" name="clinicalTrialId" value="25884">
+		<input type="hidden" name="language">
+	</form>
+
+	<div class="termOfService">
+		<a href="#" class="term">利用規約</a>
+	</div>
+
+	<!-- ▽▽ フッタブロック  ▽▽ -->
+	<footer><p class="copyright"></p></footer>
+	<!-- △△ フッタブロック  △△ -->
+</body>
+</html>
